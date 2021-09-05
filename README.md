@@ -6,7 +6,7 @@
 - 📫 How to reach me on (barely)Instagram or Pinterest or (here)e-mail.
 
 
-Pinterest(I draw) - https://www.pinterest.co.kr/sinriproject0809/-work/
+Pinterest(I draw) - https://www.pinterest.co.kr/sinriproject0809/-work/  
 e-mail - 1lliodqb@gamail.com(then instagram)
 
 <!---
