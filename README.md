@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinri0809.
 - 👀 I’m interested in UX Search and Machine Interaction.
 - 🌱 I’m currently learning HTML/CSS/JS.
-- Python / little bit C
+- Python / Java(just start) / C (used in major lectures)
 - 💞️ I’m looking to collaborate on wherever when they have passions of what they do .
 - 📫 How to reach me on (barely)Instagram or Pinterest or (here)e-mail.
 
