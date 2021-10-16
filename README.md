@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@sinri0809.](https://sinri0809.notion.site/About-sinri0809-131a93c71d2b4e22a0673a9b2f5d0d3b) click to notion
 - 👀 I’m interested in UX Search and Machine Interaction.
 - 🌱 I’m currently learning HTML/CSS/Javascript/MySQL.
-- 👩‍💻 Javascript(es6) / Python / ~~Java(just start)~~ / C (used in major lectures)
+- 👩‍💻 Javascript(es6)->typescript(plan) / Python / ~~Java(just start)~~ / C (used in major lectures)
 - 💞️ I’m looking to collaborate on wherever when they have passions of what they do .
 - 📫 How to reach me on (barely)Instagram or Pinterest or (here)e-mail.
   
