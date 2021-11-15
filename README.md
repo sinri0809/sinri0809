@@ -1,17 +1,19 @@
 # 📎🖇[sinristory](https://sinri0809.github.io/sinristory/index.html)
 My portfolio site.  
-> 📌now I'm making todo repository
+> 📌 These days, I'm making todo repository(with json-server)  
+> 📌 🙄There's a SQL Developer test on this Saturday 
 ### FRONT-END / UX DEVELOPE / UX DESIGN / WEB DEVELOPE.  
   
   
 - 👋 Hi, I’m sinri(정수진).  
 - 👀 I’m interested in UX Search and Machine Interaction.
 - 👩‍💻 HTML5 / CSS3 / Javascript / Python //////// little C and Java (used in major lectures)
-- 🌱 I’m currently learning Javascript(Es6)/MySQL/**React**. (preparing SQLD test)  
-- ✍ 💻 Plan : Javascript(es6) -> 🔥**React**(now) -> npm and node -> typescript. 
-- 💞️ I’m looking to collaborate on wherever when they have 🌟dream🌟 and passion.
-- 📫 How to reach me on e-mail or (barely)Instagram.
+- 🌱 I’m currently learning Javascript(Es6) / MySQL / **React**.  
+- ✍ 💻 Plan : ~~Javascript(es6)~~ -> 🔥**React**(now) -> npm and node -> typescript. 
+- 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
+- 📫 How to reach me is on **e-mail** or (barely)Instagram.
   
+--------
   
 [Pinterest](https://www.pinterest.co.kr/sinriproject0809/-work/) (I draw picture🖌)   
 e-mail - 1lliodqb@gmail.com (when you wanna contact to me)  
