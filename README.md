@@ -1,17 +1,18 @@
 # 📎🖇[sinristory](https://sinri0809.github.io/sinristory/index.html)
 My portfolio site.  
 > 📌 These days, I'm making todo repository(with json-server)  
-> 📌 🙄There's a SQL Developer test on this Saturday 
+> 📌 Algorithms problem solving (구현이 약해서...)  
+> Plan to make another project in React  
 ### FRONT-END / UX DEVELOPE / UX DESIGN / WEB DEVELOPE.  
   
   
 - 👋 Hi, I’m sinri(정수진).  
 - 👀 I’m interested in UX Search and Machine Interaction.
 - 👩‍💻 HTML5 / CSS3 / Javascript / Python //////// little C and Java (used in major lectures)
-- 🌱 I’m currently learning Javascript(Es6) / MySQL / **React**.  
+- 🌱 I’m currently learning **React** and Algorithms Python3.  
 - ✍ 💻 Plan : ~~Javascript(es6)~~ -> 🔥**React**(now) -> npm and node -> typescript. 
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
-- 📫 How to reach me is on **e-mail** or (barely)Instagram.
+- 📫 How to reach me is on **e-mail**.
   
 --------
   
