@@ -8,9 +8,9 @@ My portfolio site.
   
 - 👋 Hi, I’m sinri(정수진).  
 - 👀 I’m interested in UX Search and Machine Interaction.
-- 👩‍💻 HTML5 / CSS3 / Javascript / Python //////// little C and Java (used in major lectures)
+- 👩‍💻 HTML5 / CSS3 / Javascript / Python ////React-native / Firebase //// little C and Java (used in major lectures)
 - 🌱 I’m currently learning **React** and Algorithms Python3.  
-- ✍ 💻 Plan : ~~Javascript(es6)~~ -> 🔥**React**(now) -> npm and node -> typescript. 
+- ✍ 💻 Plan : ~~Javascript(es6)~~ -> 🔥**React**(now), TypeScript.
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
 - 📫 How to reach me is on **e-mail**.
   
