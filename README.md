@@ -1,8 +1,7 @@
 # 📎🖇[sinristory](https://sinri0809.github.io/sinristory/index.html)
 My portfolio site.  
-> 📌 These days, I'm making .🍹icandrink repository  
-> 📌 Algorithms problem solving (구현이 약해서...)  
-> Plan to make another project in React  
+> 📌 These days, I'm making playground repository  
+> 📌 Algorithms problem solving  
 ### FRONT-END / UX DEVELOPE / UX DESIGN / WEB DEVELOPE.  
   
   
