@@ -1,8 +1,10 @@
 # 📎🖇[sinristory](https://sinri0809.github.io/sinristory/)
+![](https://wikidocs.net/images/page/160362/img-sec1-books.png)
 ### FRONT-END / UX DEVELOPE / UX DESIGN / WEB DEVELOPE.  
 - 👋 Hi, I’m sinri(정수진).  
-- 👀 I’m interested in UX and Machine Interaction.  
-- 🌱 I’m currently preparing for the certificate exam "Engineer Information Processing".     
+- 👀 I’m interested in improving UX.  
+- 🌱 I’m currently preparing for the certificate exam "Engineer Information Processing".   
+- 📌 My goal is ✔ UX Director.  
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
   
 ### Skills
@@ -15,15 +17,13 @@ React / Python3
 React-native / Firebase   
   
 💚 **Struggle with**  
-webpack / babel / typescript
-  
+webpack / babel / [typescript](https://sinri0809.notion.site/typescript-cd612e32b4d34350b4da125f9f5d9fc6)  
 ~~//// little C and Java (used in major lectures)~~
   
 ### Certificate
 **SQLD** (MySQL) : 2021.12.17  
 
 
-![](https://wikidocs.net/images/page/160362/img-sec1-books.png)
   
 #### 📫e-mail 
 1lliodqb@gmail.com (when you wanna contact to me)  
