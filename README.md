@@ -1,44 +1,23 @@
 # 📎🖇[sinristory](https://sinri0809.github.io/sinristory/)
 ![](https://wikidocs.net/images/page/160362/img-sec1-books.png)
-### FRONT-END / UX DEVELOPE / UX DESIGN / WEB DEVELOPE.  
+## FRONT-END / UX DEVELOPE / WEB DEVELOPE.  
 - 👋 Hi, I’m sinri(정수진).  
 - 👀 I’m interested in improving UX.  
-- 🌱 I’m currently preparing for the certificate exam "Engineer Information Processing".   
-- 📌 My goal is ✔ UX Director.  
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
   
-### Skills
-💜💜 **Confidence**   
-HTML5 / CSS3 / Javascript(es6)   
-React / Python3  
-
-  
-💙 Knowing Basic  
-React-native / Firebase   
-  
-💚 **Struggle with**  
-webpack / babel / [typescript](https://sinri0809.notion.site/typescript-cd612e32b4d34350b4da125f9f5d9fc6)  
-~~//// little C and Java (used in major lectures)~~
-  
-### Certificate
-**SQLD** (MySQL) : 2021.12.17  
+### Experience
+22.03 ~ now , UX Manager (web & ui develop)  
+#gitlab #react #scss #communication with ux designer  
+Projects  
+- company web site (react)  
+- company OS's help view (react)
 
 
+### Contact point 📫e-mail 
+1lliodqb@gmail.com 
   
-#### 📫e-mail 
-1lliodqb@gmail.com (when you wanna contact to me)  
-#### 😀instagram 
-[#sinri @irnis_time](https://www.instagram.com/irnis_time/)   
-  
-  
-#### 📝Study note
-study [programming](https://wikidocs.net/book/7109)  
-study [javascript](https://wikidocs.net/book/7035)  
-study [python](https://wikidocs.net/book/6294)  
-#### 📝Directing & Design
-[notion](https://sinri0809.notion.site/Project-394e2e065b5f4390b1945ee7f43b8290)  
-
-
+  행복하세요🌼~  
+  I hope everyone's happy days.🌼  
 <!---
 sinri0809/sinri0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
