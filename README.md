@@ -5,6 +5,8 @@
 - 👀 I’m interested in improving UX.  
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
   
+#### share my knowledge -> [notion](https://sinri0809.notion.site/T-c25bbde0253d420c9f58236b842163a3)
+
 ### Experience
 22.03 ~ now , UX Manager (web & ui develop)  
 #gitlab #react #scss #communication with ux designer  
