@@ -2,22 +2,24 @@
 ![](https://wikidocs.net/images/page/160362/img-sec1-books.png)
 ## FRONT-END / UX DEVELOPE / WEB DEVELOPE.  
 - 👋 Hi, I’m sinri(정수진).  
-- 👀 I’m interested in improving UX.  
+- 👀 I’m interested in improving UX, Design System.  
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
   
-#### share my knowledge -> [notion](https://sinri0809.notion.site/T-c25bbde0253d420c9f58236b842163a3)
-
-### Experience
-22.03 ~ now , UX Manager (web & ui develop)  
-#gitlab #react #scss #communication with ux designer  
-Projects  
-- company web site (react)  
-- company OS's help view (react)
-
-
-### Contact point 📫e-mail 
-1lliodqb@gmail.com 
+##### organizing my knowledge -> [notion](https://sinri0809.notion.site/T-c25bbde0253d420c9f58236b842163a3)
+##### profile -> [notion](https://sinri0809.notion.site/sinri-in-the-house-131a93c71d2b4e22a0673a9b2f5d0d3b)
   
+## Experiences
+### TmaxOS
+(22.03.01 ~ now)  
+UX Manager (WEB & UI develop)  
+*#gitlab* *#linux*  
+*#html5* *#css* *#javascript*  
+*#React* *#scss*  
+*#communication with UX designer/director*  
+
+---
+
+##### Contact point 📫 1lliodqb@gmail.com 
   행복하세요🌼~  
   I hope everyone's happy days.🌼  
 <!---
