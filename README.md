@@ -1,6 +1,6 @@
 # 📎🖇[sinristory](https://sinri0809.github.io/sinristory/)
 ![](https://wikidocs.net/images/page/160362/img-sec1-books.png)
-## FRONT-END / UX DEVELOPE / WEB DEVELOPE.  
+## [UX-ENGINEER](https://www.coursera.org/articles/what-is-a-ux-engineer) / FRONT-END / UX DEVELOPE 
 - 👋 Hi, I’m sinri(정수진).  
 - 👀 I’m interested in improving UX, Design System.  
 - 💞️ I’m looking to collaborate on wherever they have 🌟dream🌟 and passion.
