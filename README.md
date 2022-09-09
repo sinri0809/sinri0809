@@ -7,7 +7,9 @@
   
 ##### organizing my knowledge -> 
 [notion](https://sinri0809.notion.site/T-c25bbde0253d420c9f58236b842163a3)  
-[velog](https://velog.io/@tmax_ux_dev/series)
+[velog](https://velog.io/@tmax_ux_dev/series)  
+[codepen](https://codepen.io/sinri0809/)
+
 ##### profile -> [notion](https://sinri0809.notion.site/sinri-in-the-house-131a93c71d2b4e22a0673a9b2f5d0d3b)
   
 ## Experiences
