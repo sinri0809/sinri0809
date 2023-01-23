@@ -17,9 +17,9 @@
 (22.03.01 ~ now)  
 UX Manager (WEB & UI develop)  
 *#gitlab* *#linux*  
-*#html5* *#css* *#javascript*  
+*#html5* *#css* *#javascript* *typescript*  
 *#React* *#scss*  
-*#communication with UX designer/director*  
+*#communication with UX designer/director & developer*  
 
 ---
 
