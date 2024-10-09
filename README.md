@@ -2,7 +2,7 @@
 
 ![](https://wikidocs.net/images/page/160362/img-sec1-books.png)
 - 👋 Hi, I’m sinri(정수진).  
-- Contact point 📫 1lliodqb@gmail.com  
+- 📫 1lliodqb@gmail.com  
 - 행복하세요 🌼~ 
 ```
 *#gitlab* *#linux*  
